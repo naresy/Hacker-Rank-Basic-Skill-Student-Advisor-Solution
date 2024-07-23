@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HackerRank Basic Skill Student Advisor Solution</title>
-</head>
-<body>
+
     <h1>HackerRank Basic Skill Student Advisor Solution</h1>
     <p>This repository contains solutions to various HackerRank SQL challenges. Each SQL script addresses a specific problem statement from HackerRank.</p>
 
@@ -76,5 +69,4 @@ USE student_advisor_db;</code></pre>
 
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
-</body>
-</html>
+
