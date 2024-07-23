@@ -1,4 +1,3 @@
-
     <h1>HackerRank Basic Skill Student Advisor Solution</h1>
     <p>This repository contains solutions to various HackerRank SQL challenges. Each SQL script addresses a specific problem statement from HackerRank.</p>
 
