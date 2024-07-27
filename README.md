@@ -47,7 +47,7 @@
 <p><strong>Example:</strong></p>
 
 <pre><code>
-cd Easy
+cd Advance Select
 MySQL -u username -p < problem_name.sql
 </code></pre>
 
