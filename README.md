@@ -50,18 +50,6 @@
 cd Advance Select
 MySQL -u username -p < problem_name.sql
 </code></pre>
-
-<h2>Problem Categories</h2>
-
-<h3>Easy</h3>
-<p>This directory contains solutions to easy SQL problems.</p>
-
-<h3>Medium</h3>
-<p>This directory contains solutions to medium-difficulty SQL problems.</p>
-
-<h3>Hard</h3>
-<p>This directory contains solutions to hard SQL problems.</p>
-
 <h2>Contributing</h2>
 <p>If you have a better solution or an improvement to an existing solution, feel free to contribute by following these steps:</p>
 <ol>
